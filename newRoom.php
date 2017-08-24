@@ -291,8 +291,8 @@
 
                                 <div class="col-sm-9">
                                         <select class="col-xs-10 col-sm-5" id="pet" name="pet" >
-                                        <option value="true">Yes</option>
-                                        <option value="false">No</option>
+                                        <option value="1">Yes</option>
+                                        <option value="0">No</option>
                                     </select>
                                 </div>
                             </div>
@@ -302,8 +302,8 @@
 
                                 <div class="col-sm-9">
                                    		<select class="col-xs-10 col-sm-5" id="smoke" name="smoke" >
-                                        <option value="true">Yes</option>
-                                        <option value="false">No</option>
+                                        <option value="1">Yes</option>
+                                        <option value="0">No</option>
                                     </select>
                                 </div>
 
